@@ -1171,6 +1171,12 @@ SOFTWARE.
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yyyyymmmmm/IntRoot&type=Date)](https://star-history.com/#yyyyymmmmm/IntRoot&Date)
+
+---
+
 <div align="center">
 
 ### Made with ❤️ by InkRoot
