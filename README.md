@@ -16,7 +16,7 @@
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yyyyymmmmm/IntRoot/blob/master/LICENSE)
   [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey.svg)](https://github.com/yyyyymmmmm/IntRoot)
 
-  [官方网站](https://inkroot.cn) · [在线演示](https://inkroot.cn) · [问题反馈](https://github.com/yyyyymmmmm/IntRoot/issues) · [功能建议](https://github.com/yyyyymmmmm/IntRoot/discussions) · [常见问题](FAQ.md)
+  [官方网站](https://inkroot.cn) · [在线演示](https://inkroot.cn) · [问题反馈](https://github.com/yyyyymmmmm/IntRoot/issues) · [功能建议](https://github.com/yyyyymmmmm/IntRoot/issues/new?template=feature_request.md) · [常见问题](FAQ.md)
 
 </div>
 
