@@ -1,0 +1,126 @@
+name: inkroot
+description: 墨迹·墨笔记·墨计划
+
+publish_to: 'none'
+
+version: 1.0.3+3
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  # UI组件
+  cupertino_icons: ^1.0.6
+  
+  # 状态管理
+  provider: ^6.1.2
+  
+  # 数据库
+  sqflite: ^2.3.3+1
+  path_provider: ^2.1.3
+  path: ^1.9.0
+  
+  # 图片相关
+  image_picker: ^1.1.2
+  flutter_image_compress: ^2.3.0
+  
+  # 国际化
+  intl: 0.20.2
+  
+  # HTTP请求
+  http: ^1.2.2
+  
+  # 设备信息
+  device_info_plus: ^10.1.2
+  
+  # 共享偏好
+  shared_preferences: ^2.2.3
+  
+  # URL启动器
+  url_launcher: ^6.3.0
+  
+  # 权限
+  permission_handler: ^11.3.1
+  
+  # 图片缓存
+  cached_network_image: ^3.3.1
+  
+  # 路由
+  go_router: ^10.2.0
+  
+  # Markdown
+  flutter_markdown: ^0.6.23
+  
+  # 分享
+  share_plus: ^7.2.2
+  
+  # 🔥 接收分享 - 接收其他应用分享的内容（使用更稳定的版本）
+  
+  # 包信息
+  package_info_plus: ^8.0.2
+  
+  # 安全存储
+  flutter_secure_storage: ^8.1.0
+  
+  # 保存图片到相册
+  image_gallery_saver_plus: ^4.0.1
+  
+  # 时间格式化
+  timeago: ^3.7.0
+  
+  # SVG
+  flutter_svg: ^2.0.10
+  
+  # 启动屏
+  flutter_native_splash: ^2.4.1
+  
+  # 滑动操作
+  flutter_slidable: ^3.1.1
+  
+  # 高亮代码
+  flutter_highlight: ^0.7.0
+  
+  # WebView
+  webview_flutter: ^4.10.0
+  
+  # 文件选择器
+  file_picker: ^8.1.2
+  
+  # 通知 - 使用官方推荐版本
+  flutter_local_notifications: ^17.2.3
+  timezone: ^0.9.4
+  
+  # 语音识别
+  speech_to_text: 7.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: SF-Pro-Display
+      fonts:
+        - asset: assets/fonts/SF-Pro-Display-Light.ttf
+          weight: 300
+        - asset: assets/fonts/SF-Pro-Display-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/SF-Pro-Display-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/SF-Pro-Display-Bold.ttf
+          weight: 700
+    - family: SF-Mono
+      fonts:
+        - asset: assets/fonts/SF-Mono-Regular.ttf
+          weight: 400
